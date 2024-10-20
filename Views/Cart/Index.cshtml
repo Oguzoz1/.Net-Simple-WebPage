@@ -1,0 +1,56 @@
+@model CartViewModel
+
+@{
+    ViewData["Title"] = "Your Cart";
+    var displayedProductIds = new HashSet<int>();
+}
+
+<h2>Sepetiniz</h2>
+
+@if (Model.Products!.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ürün İsmi</th>
+                <th>Fiyat</th>
+                <th>Sayı</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Products!)
+            {
+                if (displayedProductIds.Contains(product.ProductId))
+                {
+                    continue; 
+                }
+
+                displayedProductIds.Add(product.ProductId);
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price ₺</td>
+                    <td>
+                        <form asp-action="UpdateCart" method="post">
+                            <input type="hidden" name="productId" value="@product.ProductId" />
+                            <input type="number" name="quantity" value="@Model.CountProductById(product.ProductId)" min="1" />
+                            <button type="submit" class="btn btn-sm btn-secondary">Update</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="RemoveFromCart" method="post">
+                            <input type="hidden" name="productId" value="@product.ProductId" />
+                            <button type="submit" class="btn btn-sm btn-danger">Sil</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Toplam Fiyat: @Model.TotalPrice ₺</h4>
+}
+else
+{
+    <p>Sepetiniz Boş!</p>
+}

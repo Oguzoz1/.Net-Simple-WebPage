@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BooksApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BooksApp.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\2313df7d-1867-4b32-9f52-b8864b3f9c7f.png",
+      "PackagePath": "staticwebassets\\img\\2313df7d-1867-4b32-9f52-b8864b3f9c7f.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\3.png",
+      "PackagePath": "staticwebassets\\img\\3.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\37f4583b-e208-46cd-b52d-97405e579005.png",
+      "PackagePath": "staticwebassets\\img\\37f4583b-e208-46cd-b52d-97405e579005.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\44aaa365-e383-4782-971f-056fb1081e31.png",
+      "PackagePath": "staticwebassets\\img\\44aaa365-e383-4782-971f-056fb1081e31.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\5be6b4d9-0596-487a-a60e-e8cf3995a547.png",
+      "PackagePath": "staticwebassets\\img\\5be6b4d9-0596-487a-a60e-e8cf3995a547.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\5f4a4cf6-e96f-4579-8322-7961d8311a26.png",
+      "PackagePath": "staticwebassets\\img\\5f4a4cf6-e96f-4579-8322-7961d8311a26.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\72233e03-0afd-47fe-9292-48f347df8344.png",
+      "PackagePath": "staticwebassets\\img\\72233e03-0afd-47fe-9292-48f347df8344.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\86fa321f-f82c-4734-b340-ebbd4fe9c0b3.png",
+      "PackagePath": "staticwebassets\\img\\86fa321f-f82c-4734-b340-ebbd4fe9c0b3.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\94e67bfc-52a5-42fd-84f2-e27a2eab8bd7.png",
+      "PackagePath": "staticwebassets\\img\\94e67bfc-52a5-42fd-84f2-e27a2eab8bd7.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\95d16683-6b1a-4361-befe-b10011fcb701.png",
+      "PackagePath": "staticwebassets\\img\\95d16683-6b1a-4361-befe-b10011fcb701.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\ab9c9bb0-de7b-474a-ac25-d647f9b63d09.png",
+      "PackagePath": "staticwebassets\\img\\ab9c9bb0-de7b-474a-ac25-d647f9b63d09.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\b6508cbd-388e-4786-b355-832b1b6afad5.png",
+      "PackagePath": "staticwebassets\\img\\b6508cbd-388e-4786-b355-832b1b6afad5.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\c8591df3-1f3d-434d-8c94-4c285f35a17d.png",
+      "PackagePath": "staticwebassets\\img\\c8591df3-1f3d-434d-8c94-4c285f35a17d.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\cf49a522-05c6-4c56-b14c-70f1445149a8.jpg",
+      "PackagePath": "staticwebassets\\img\\cf49a522-05c6-4c56-b14c-70f1445149a8.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\d47008c7-d036-49ad-952a-0108f07ee8ff.png",
+      "PackagePath": "staticwebassets\\img\\d47008c7-d036-49ad-952a-0108f07ee8ff.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\eafa3b08-d47a-4b2e-8c3c-234f0d1a501d.png",
+      "PackagePath": "staticwebassets\\img\\eafa3b08-d47a-4b2e-8c3c-234f0d1a501d.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\f1b8bc93-d823-4384-ab7c-60ebe0993460.png",
+      "PackagePath": "staticwebassets\\img\\f1b8bc93-d823-4384-ab7c-60ebe0993460.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\f34da276-24cb-4d6b-9122-5fc731b9ad61.png",
+      "PackagePath": "staticwebassets\\img\\f34da276-24cb-4d6b-9122-5fc731b9ad61.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\img\\f39eb46e-4bc2-4460-a4e8-cfacce5ff24a.png",
+      "PackagePath": "staticwebassets\\img\\f39eb46e-4bc2-4460-a4e8-cfacce5ff24a.png"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\GitHub\\.NET-Core-Developer\\BooksApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BooksApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BooksApp.props",
+      "PackagePath": "build\\BooksApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksApp.props",
+      "PackagePath": "buildMultiTargeting\\BooksApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BooksApp.props",
+      "PackagePath": "buildTransitive\\BooksApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
